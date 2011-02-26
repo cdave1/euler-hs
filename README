@@ -1,0 +1,8 @@
+I was attempting to do project euler in as many different languages as possible 
+(see https://github.com/cdave1/euler).
+
+The goal was to solve each problem in each different language before moving to the next problem.  
+However, Haskell was proving itself as by far the easiest language to solve the problems in, and 
+I was getting ahead of the other languages to the detriment of the learning goals I had when starting
+out.  Because of this, I decided to split off my Haskell solutions into an entirely separate 
+repository.
